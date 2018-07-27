@@ -1,0 +1,11 @@
+img{
+    width: 100px;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+    padding-left: 35px;
+}
+
+.mb-lg-0, .my-lg-0{
+    padding-left: 350px;
+}
